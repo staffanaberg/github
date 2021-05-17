@@ -4,7 +4,7 @@ abstract class Shape {
 	private int x;
 	private int y;
 
-	// constructor
+	// This is the constructor
 	Shape(int x, int y) {
 		moveTo(x, y);
 	}
