@@ -9,7 +9,7 @@ abstract class Shape {
 		moveTo(x, y);
 	}
 
-	// accessors for x & y
+	// This gives accessors for x & y
 	int getX() {
 		return x;
 	}
